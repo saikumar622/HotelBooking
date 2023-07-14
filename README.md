@@ -13,4 +13,4 @@
 - Add, Delete, Edit Room Category
 - ADD, Remove, Edit Number of Rooms
 - View Booked Room
-- Add new Admin
+- Add new Manager
